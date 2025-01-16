@@ -1,3 +1,7 @@
+:: Author: Josip Prpić
+:: RAM Forensics class lab1
+:: v1.2.0
+
 @echo off
 echo Starting script
 
