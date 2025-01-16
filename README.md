@@ -1,3 +1,5 @@
+# v1.2.0
+
 # System Information Collection Script
 
 This script is a simple Windows Batch script designed to gather key system information and store it in text files for later analysis. The output files are organized into a folder with a timestamped name, ensuring that previous results are not overwritten.
